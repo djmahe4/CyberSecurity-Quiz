@@ -58,6 +58,7 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
 
   ## Topics covered
     ### Blockchain Security
+  ```
     "Smart Contract Vulnerabilities",
     "Blockchain Data Encryption",
     "Cryptographic Hash Functions",
@@ -68,8 +69,10 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
     "Blockchain Identity Management",
     "Blockchain Access Control",
     "Blockchain Data Integrity",
+  ```
 
     ### IoT Security
+  ```
     "IoT Device Authentication",
     "IoT Network Security Protocols",
     "IoT Data Encryption Methods",
@@ -80,8 +83,10 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
     "IoT Endpoint Security",
     "IoT Firmware Security",
     "IoT Secure Boot Mechanisms",
+  ```
 
     ### Cryptography
+  ```
     "Public-Key Cryptography",
     "Symmetric-Key Cryptography",
     "Hash Functions",
@@ -92,8 +97,10 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
     "Homomorphic Encryption",
     "Zero-Knowledge Proofs",
     "Secure Multi-Party Computation",
+  ```
 
     ### Network Security
+  ```
     "Firewall Configuration",
     "Intrusion Detection Systems",
     "Virtual Private Networks (VPNs)",
@@ -104,7 +111,9 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
     "Secure Shell (SSH) Protocol",
     "Network Monitoring and Analysis",
     "Denial-of-Service (DoS) Attack Prevention",
+  ```
     ### Threat Intelligence
+  ```
     "Threat Modeling",
     "Vulnerability Assessment",
     "Penetration Testing",
@@ -115,8 +124,10 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
     "Advanced Persistent Threats (APTs)",
     "Insider Threats",
     "Cyber Threat Intelligence Sharing",
+  ```
 
     ### Cloud Security
+  ```
     "Cloud Access Security Broker (CASB)",
     "Cloud Security Gateways",
     "Cloud Encryption",
@@ -127,8 +138,10 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
     "Cloud Computing Security Standards",
     "Cloud Security Architecture",
     "Cloud Security Monitoring",
+  ```
 
     ### Artificial Intelligence and Machine Learning Security
+  ```
     "AI/ML Model Security",
     "AI/ML Data Security",
     "AI/ML Explainability",
@@ -139,3 +152,4 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
     "AI/ML Security Analytics",
     "AI/ML Incident Response",
     "AI/ML Security Standards"
+  ```
