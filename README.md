@@ -49,6 +49,7 @@ This project uses Streamlit and Google Generative AI. Follow the steps below to 
     ```sh
     streamlit run main.py
     ```
+2. **Go to http://localhost:8501 to view and interact with the app**
 
 ### Notes
 
