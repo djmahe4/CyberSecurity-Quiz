@@ -300,10 +300,10 @@ def main_funct(topic):
             try:
                 if qa["options"] == [] or qa["question"] == "" or qa["answer"] == "":
                     st.write("It seems like some error..Please click start again..")
-                    main_funct()
+                    main_funct(topic)
             except KeyError:
                 st.write("It seems like some error..Please click start again..")
-                main_funct()
+                main_funct(topic)
         st.session_state.questions = quiz_data
         return quiz_data
     else:
