@@ -378,7 +378,7 @@ if st.session_state.answer_submitted:
     if st.session_state.current_index < len(quiz_data) - 1:
         st.button('Next', on_click=next_question)
     else:
-        st.write(f"Quiz completed! Your score is: {st.session_state.score} / {len(quiz_data) * 10}")
+        st.write(f"Quiz completed! Your score is: {st.session_state.score-10} / {len(quiz_data) * 10}")
         if st.button('Restart', on_click=restart_quiz):
             pass
 else:
