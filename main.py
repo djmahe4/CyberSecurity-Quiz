@@ -298,7 +298,7 @@ def main_funct(topic):
         quiz_data.pop()
         for i, qa in enumerate(quiz_data):
             try:
-                if qa["options"] == [] or orqa["options"][0] == "" or qa["question"] == "" or qa["answer"] == "":
+                if qa["options"] == [] or qa["options"][0] == "" or qa["question"] == "" or qa["answer"] == "":
                     st.write("It seems like some error..Please click start again..")
                     main_funct(topic)
             except KeyError:
